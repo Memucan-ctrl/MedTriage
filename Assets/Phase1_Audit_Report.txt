@@ -1,0 +1,645 @@
+=== HOSPITAL FBX AUDIT REPORT ===
+1. Exact FBX Path: Assets/Hospital_Site.fbx
+2. ModelImporter Settings:
+   - Material Import Mode: ImportViaMaterialDescription
+   - Material Location: InPrefab
+   - Global Scale: 1
+   - Import Cameras: True
+   - Import Lights: True
+   - Mesh Compression: Off
+   - Read/Write Enabled: False
+
+3. Imported Materials (22):
+   - fir_tree_01_bark (Shader: Universal Render Pipeline/Lit)
+   - fir_tree_01_dead_branches (Shader: Universal Render Pipeline/Lit)
+   - fir_tree_01_trunk_c (Shader: Universal Render Pipeline/Lit)
+   - fir_tree_01_twig (Shader: Universal Render Pipeline/Lit)
+   - island_tree_02 (Shader: Universal Render Pipeline/Lit)
+   - island_tree_02_branches (Shader: Universal Render Pipeline/Lit)
+   - island_tree_02_leaves (Shader: Universal Render Pipeline/Lit)
+   - jacaranda_tree_branches (Shader: Universal Render Pipeline/Lit)
+   - jacaranda_tree_leaves (Shader: Universal Render Pipeline/Lit)
+   - jacaranda_tree_trunk (Shader: Universal Render Pipeline/Lit)
+   - leafy_grass (Shader: Universal Render Pipeline/Lit)
+   - MAT_Charcoal (Shader: Universal Render Pipeline/Lit)
+   - MAT_Coping_Charcoal (Shader: Universal Render Pipeline/Lit)
+   - MAT_Floor_Wood (Shader: Universal Render Pipeline/Lit)
+   - MAT_Frame_Metal (Shader: Universal Render Pipeline/Lit)
+   - MAT_Glass (Shader: Universal Render Pipeline/Lit)
+   - MAT_Grey_Metal (Shader: Universal Render Pipeline/Lit)
+   - MAT_Paving (Shader: Universal Render Pipeline/Lit)
+   - MAT_Roof (Shader: Universal Render Pipeline/Lit)
+   - MAT_TreeFoliage (Shader: Universal Render Pipeline/Lit)
+   - MAT_Troffer_Light (Shader: Universal Render Pipeline/Lit)
+   - MAT_Wall_White (Shader: Universal Render Pipeline/Lit)
+
+4 & 5. Associated Textures and Alpha Info:
+   - Texture (unreferenced in materials but matching name): Bed_BaseColor | Path: Assets/AssetsHospitalKit/textures/bed/Bed_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Bed_Displacement | Path: Assets/AssetsHospitalKit/textures/bed/Bed_Displacement.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Bed_Metallic | Path: Assets/AssetsHospitalKit/textures/bed/Bed_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Bed_Normal | Path: Assets/AssetsHospitalKit/textures/bed/Bed_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Bed_Roughness | Path: Assets/AssetsHospitalKit/textures/bed/Bed_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_1_BaseColor | Path: Assets/AssetsHospitalKit/textures/ceiling_1/Ceiling_1_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_1_Displacement | Path: Assets/AssetsHospitalKit/textures/ceiling_1/Ceiling_1_Displacement.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_1_Metallic | Path: Assets/AssetsHospitalKit/textures/ceiling_1/Ceiling_1_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_1_Normal | Path: Assets/AssetsHospitalKit/textures/ceiling_1/Ceiling_1_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_1_Roughness | Path: Assets/AssetsHospitalKit/textures/ceiling_1/Ceiling_1_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_light_BaseColor | Path: Assets/AssetsHospitalKit/textures/Ceiling_light/Ceiling_light_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_light_Displacement | Path: Assets/AssetsHospitalKit/textures/Ceiling_light/Ceiling_light_Displacement.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_light_Metallic | Path: Assets/AssetsHospitalKit/textures/Ceiling_light/Ceiling_light_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_light_Normal | Path: Assets/AssetsHospitalKit/textures/Ceiling_light/Ceiling_light_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Ceiling_light_Roughness | Path: Assets/AssetsHospitalKit/textures/Ceiling_light/Ceiling_light_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Chairs_tables_1_BaseColor | Path: Assets/AssetsHospitalKit/textures/Chairs_table_1/Chairs_tables_1_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Chairs_tables_1_Displacement | Path: Assets/AssetsHospitalKit/textures/Chairs_table_1/Chairs_tables_1_Displacement.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Chairs_tables_1_Metallic | Path: Assets/AssetsHospitalKit/textures/Chairs_table_1/Chairs_tables_1_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Chairs_tables_1_Normal | Path: Assets/AssetsHospitalKit/textures/Chairs_table_1/Chairs_tables_1_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Chairs_tables_1_Roughness | Path: Assets/AssetsHospitalKit/textures/Chairs_table_1/Chairs_tables_1_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Door_1_BaseColor | Path: Assets/AssetsHospitalKit/textures/Door_1/Door_1_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Door_1_Displacement | Path: Assets/AssetsHospitalKit/textures/Door_1/Door_1_Displacement.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Door_1_Metallic | Path: Assets/AssetsHospitalKit/textures/Door_1/Door_1_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Door_1_Normal | Path: Assets/AssetsHospitalKit/textures/Door_1/Door_1_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Door_1_Roughness | Path: Assets/AssetsHospitalKit/textures/Door_1/Door_1_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Doorway_1_BaseColor | Path: Assets/AssetsHospitalKit/textures/Doorway_1/Doorway_1_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Doorway_1_Displacement | Path: Assets/AssetsHospitalKit/textures/Doorway_1/Doorway_1_Displacement.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Doorway_1_Metallic | Path: Assets/AssetsHospitalKit/textures/Doorway_1/Doorway_1_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Doorway_1_Normal | Path: Assets/AssetsHospitalKit/textures/Doorway_1/Doorway_1_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Doorway_1_Roughness | Path: Assets/AssetsHospitalKit/textures/Doorway_1/Doorway_1_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Exit_sign_Base_color | Path: Assets/AssetsHospitalKit/textures/exit_sign/Exit_sign_Base_color.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Exit_sign_Height | Path: Assets/AssetsHospitalKit/textures/exit_sign/Exit_sign_Height.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Exit_sign_Metallic | Path: Assets/AssetsHospitalKit/textures/exit_sign/Exit_sign_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Exit_sign_Mixed_AO | Path: Assets/AssetsHospitalKit/textures/exit_sign/Exit_sign_Mixed_AO.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Exit_sign_Normal | Path: Assets/AssetsHospitalKit/textures/exit_sign/Exit_sign_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Exit_sign_Normal_DirectX | Path: Assets/AssetsHospitalKit/textures/exit_sign/Exit_sign_Normal_DirectX.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Exit_sign_Roughness | Path: Assets/AssetsHospitalKit/textures/exit_sign/Exit_sign_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Floors_1_BaseColor | Path: Assets/AssetsHospitalKit/textures/Floors_1/Floors_1_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Floors_1_Displacement | Path: Assets/AssetsHospitalKit/textures/Floors_1/Floors_1_Displacement.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Floors_1_Metallic | Path: Assets/AssetsHospitalKit/textures/Floors_1/Floors_1_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Floors_1_Normal | Path: Assets/AssetsHospitalKit/textures/Floors_1/Floors_1_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Floors_1_Roughness | Path: Assets/AssetsHospitalKit/textures/Floors_1/Floors_1_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_Bag_IV_pole_bag_BaseColor | Path: Assets/AssetsHospitalKit/textures/Iv_bag/IV_Bag_IV_pole_bag_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_Bag_IV_pole_bag_Height | Path: Assets/AssetsHospitalKit/textures/Iv_bag/IV_Bag_IV_pole_bag_Height.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_Bag_IV_pole_bag_Metallic | Path: Assets/AssetsHospitalKit/textures/Iv_bag/IV_Bag_IV_pole_bag_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_Bag_IV_pole_bag_Normal | Path: Assets/AssetsHospitalKit/textures/Iv_bag/IV_Bag_IV_pole_bag_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_Bag_IV_pole_bag_Opacity | Path: Assets/AssetsHospitalKit/textures/Iv_bag/IV_Bag_IV_pole_bag_Opacity.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_Bag_IV_pole_bag_Roughness | Path: Assets/AssetsHospitalKit/textures/Iv_bag/IV_Bag_IV_pole_bag_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_pole_bag_Base_color | Path: Assets/AssetsHospitalKit/textures/Iv_pole/IV_pole_bag_Base_color.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_pole_bag_Height | Path: Assets/AssetsHospitalKit/textures/Iv_pole/IV_pole_bag_Height.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_pole_bag_Metallic | Path: Assets/AssetsHospitalKit/textures/Iv_pole/IV_pole_bag_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_pole_bag_Mixed_AO | Path: Assets/AssetsHospitalKit/textures/Iv_pole/IV_pole_bag_Mixed_AO.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_pole_bag_Normal | Path: Assets/AssetsHospitalKit/textures/Iv_pole/IV_pole_bag_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_pole_bag_Normal_DirectX | Path: Assets/AssetsHospitalKit/textures/Iv_pole/IV_pole_bag_Normal_DirectX.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): IV_pole_bag_Roughness | Path: Assets/AssetsHospitalKit/textures/Iv_pole/IV_pole_bag_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Magazine_Base_color | Path: Assets/AssetsHospitalKit/textures/Magazine/Magazine_Base_color.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Magazine_Height | Path: Assets/AssetsHospitalKit/textures/Magazine/Magazine_Height.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Magazine_Metallic | Path: Assets/AssetsHospitalKit/textures/Magazine/Magazine_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Magazine_Mixed_AO | Path: Assets/AssetsHospitalKit/textures/Magazine/Magazine_Mixed_AO.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Magazine_Normal | Path: Assets/AssetsHospitalKit/textures/Magazine/Magazine_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Magazine_Normal_DirectX | Path: Assets/AssetsHospitalKit/textures/Magazine/Magazine_Normal_DirectX.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Magazine_Roughness | Path: Assets/AssetsHospitalKit/textures/Magazine/Magazine_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Walls_1_BaseColor | Path: Assets/AssetsHospitalKit/textures/Walls_1/Walls_1_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Walls_1_Displacement | Path: Assets/AssetsHospitalKit/textures/Walls_1/Walls_1_Displacement.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Walls_1_Metallic | Path: Assets/AssetsHospitalKit/textures/Walls_1/Walls_1_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Walls_1_Normal | Path: Assets/AssetsHospitalKit/textures/Walls_1/Walls_1_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Walls_1_Roughness | Path: Assets/AssetsHospitalKit/textures/Walls_1/Walls_1_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Wheel_chair_BaseColor | Path: Assets/AssetsHospitalKit/textures/wheel_chair/Wheel_chair_BaseColor.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Wheel_chair_Displacement | Path: Assets/AssetsHospitalKit/textures/wheel_chair/Wheel_chair_Displacement.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Wheel_chair_Metallic | Path: Assets/AssetsHospitalKit/textures/wheel_chair/Wheel_chair_Metallic.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Wheel_chair_Normal | Path: Assets/AssetsHospitalKit/textures/wheel_chair/Wheel_chair_Normal.png | AlphaSource: FromInput, AlphaIsTransparency: False
+   - Texture (unreferenced in materials but matching name): Wheel_chair_Roughness | Path: Assets/AssetsHospitalKit/textures/wheel_chair/Wheel_chair_Roughness.png | AlphaSource: FromInput, AlphaIsTransparency: False
+
+6. Category Mapping (Meshes and Material Slots):
+   [Window Glass Slots]:
+     - Object: Entrance_Door_Glass_Cardiac_Arrest (Mesh: Entrance_Door_Glass_Cardiac_Arrest, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Transom_Glass_Cardiac_Arrest (Mesh: Entrance_Transom_Glass_Cardiac_Arrest, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_0_Cardiac_Arrest (Mesh: GlassWall_Panel_0_Cardiac_Arrest, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_1_Cardiac_Arrest (Mesh: GlassWall_Panel_1_Cardiac_Arrest, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_2_Cardiac_Arrest (Mesh: GlassWall_Panel_2_Cardiac_Arrest, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_3_Cardiac_Arrest (Mesh: GlassWall_Panel_3_Cardiac_Arrest, Slot: 0, Material: MAT_Glass)
+     - Object: TallWin_Glass_Cardiac_Arrest (Mesh: TallWin_Glass_Cardiac_Arrest, Slot: 0, Material: MAT_Glass)
+     - Object: East_Corridor_Wall (Mesh: East_Corridor_Wall, Slot: 0, Material: MAT_Glass)
+     - Object: Floor2_E_Glass (Mesh: Floor2_E_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Floor2_N_Glass (Mesh: Floor2_N_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Floor2_S_Glass_L (Mesh: Floor2_S_Glass_L, Slot: 0, Material: MAT_Glass)
+     - Object: Floor2_W_Glass (Mesh: Floor2_W_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Floor3_E_Glass (Mesh: Floor3_E_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Floor3_N_Glass (Mesh: Floor3_N_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Floor3_S_Glass (Mesh: Floor3_S_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Floor3_W_Glass (Mesh: Floor3_W_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Door_Glass_Isolation (Mesh: Entrance_Door_Glass_Isolation, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Transom_Glass_Isolation (Mesh: Entrance_Transom_Glass_Isolation, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_0_Isolation (Mesh: GlassWall_Panel_0_Isolation, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_1_Isolation (Mesh: GlassWall_Panel_1_Isolation, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_2_Isolation (Mesh: GlassWall_Panel_2_Isolation, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_3_Isolation (Mesh: GlassWall_Panel_3_Isolation, Slot: 0, Material: MAT_Glass)
+     - Object: TallWin_Glass_Isolation (Mesh: TallWin_Glass_Isolation, Slot: 0, Material: MAT_Glass)
+     - Object: Lobby_Glass (Mesh: Lobby_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Door_Glass_Observation (Mesh: Entrance_Door_Glass_Observation, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Transom_Glass_Observation (Mesh: Entrance_Transom_Glass_Observation, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_0_Observation (Mesh: GlassWall_Panel_0_Observation, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_1_Observation (Mesh: GlassWall_Panel_1_Observation, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_2_Observation (Mesh: GlassWall_Panel_2_Observation, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_3_Observation (Mesh: GlassWall_Panel_3_Observation, Slot: 0, Material: MAT_Glass)
+     - Object: TallWin_Glass_Observation (Mesh: TallWin_Glass_Observation, Slot: 0, Material: MAT_Glass)
+     - Object: Office_Sliding_Door_Glass (Mesh: Office_Sliding_Door_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Office_Window_Glass (Mesh: Office_Window_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Connecting_Door_Glass (Mesh: Connecting_Door_Glass, Slot: 0, Material: MAT_Glass)
+     - Object: Connecting_Transom_Glass_Surg (Mesh: Connecting_Transom_Glass_Surg, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Door_Glass_Surgical (Mesh: Entrance_Door_Glass_Surgical, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Transom_Glass_Surgical (Mesh: Entrance_Transom_Glass_Surgical, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_0_Surgical (Mesh: GlassWall_Panel_0_Surgical, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_1_Surgical (Mesh: GlassWall_Panel_1_Surgical, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_2_Surgical (Mesh: GlassWall_Panel_2_Surgical, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_3_Surgical (Mesh: GlassWall_Panel_3_Surgical, Slot: 0, Material: MAT_Glass)
+     - Object: TallWin_Glass_Surgical (Mesh: TallWin_Glass_Surgical, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Door_Glass_Trauma (Mesh: Entrance_Door_Glass_Trauma, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Transom_Glass_Trauma (Mesh: Entrance_Transom_Glass_Trauma, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_0_Trauma (Mesh: GlassWall_Panel_0_Trauma, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_1_Trauma (Mesh: GlassWall_Panel_1_Trauma, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_2_Trauma (Mesh: GlassWall_Panel_2_Trauma, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_3_Trauma (Mesh: GlassWall_Panel_3_Trauma, Slot: 0, Material: MAT_Glass)
+     - Object: TallWin_Glass_Trauma (Mesh: TallWin_Glass_Trauma, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Door_Glass_Triage (Mesh: Entrance_Door_Glass_Triage, Slot: 0, Material: MAT_Glass)
+     - Object: Entrance_Transom_Glass_Triage (Mesh: Entrance_Transom_Glass_Triage, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_0_Triage (Mesh: GlassWall_Panel_0_Triage, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_1_Triage (Mesh: GlassWall_Panel_1_Triage, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_2_Triage (Mesh: GlassWall_Panel_2_Triage, Slot: 0, Material: MAT_Glass)
+     - Object: GlassWall_Panel_3_Triage (Mesh: GlassWall_Panel_3_Triage, Slot: 0, Material: MAT_Glass)
+     - Object: TallWin_Glass_Triage (Mesh: TallWin_Glass_Triage, Slot: 0, Material: MAT_Glass)
+     - Object: Waiting_Entrance_Glass_Fixed (Mesh: Waiting_Entrance_Glass_Fixed, Slot: 0, Material: MAT_Glass)
+     - Object: Waiting_Entrance_Glass_Sliding (Mesh: Waiting_Entrance_Glass_Sliding, Slot: 0, Material: MAT_Glass)
+     - Object: West_Corridor_Wall (Mesh: West_Corridor_Wall, Slot: 0, Material: MAT_Glass)
+   [Tree Leaves Slots]:
+     - Object: Planter_Soil_0 (Mesh: Planter_Soil_0, Slot: 0, Material: MAT_TreeFoliage)
+     - Object: Planter_Soil_1 (Mesh: Planter_Soil_1, Slot: 0, Material: MAT_TreeFoliage)
+     - Object: RealTree_01 (Mesh: RealTree_01, Slot: 2, Material: jacaranda_tree_leaves)
+     - Object: RealTree_02 (Mesh: RealTree_01, Slot: 2, Material: jacaranda_tree_leaves)
+     - Object: RealTree_03 (Mesh: RealTree_01, Slot: 2, Material: jacaranda_tree_leaves)
+     - Object: RealTree_04 (Mesh: RealTree_01, Slot: 2, Material: jacaranda_tree_leaves)
+     - Object: RealTree_05 (Mesh: RealTree_01, Slot: 2, Material: jacaranda_tree_leaves)
+     - Object: RealTree_06 (Mesh: RealTree_01, Slot: 2, Material: jacaranda_tree_leaves)
+     - Object: RealTree_07 (Mesh: RealTree_07, Slot: 1, Material: island_tree_02_leaves)
+     - Object: RealTree_08 (Mesh: RealTree_07, Slot: 1, Material: island_tree_02_leaves)
+     - Object: RealTree_09 (Mesh: RealTree_09, Slot: 1, Material: fir_tree_01_twig)
+     - Object: RealTree_09 (Mesh: RealTree_09, Slot: 2, Material: fir_tree_01_dead_branches)
+     - Object: RealTree_10 (Mesh: RealTree_09, Slot: 1, Material: fir_tree_01_twig)
+     - Object: RealTree_10 (Mesh: RealTree_09, Slot: 2, Material: fir_tree_01_dead_branches)
+   [Tree Trunks/Bark Slots]:
+     - Object: RealTree_01 (Mesh: RealTree_01, Slot: 1, Material: jacaranda_tree_trunk)
+     - Object: RealTree_02 (Mesh: RealTree_01, Slot: 1, Material: jacaranda_tree_trunk)
+     - Object: RealTree_03 (Mesh: RealTree_01, Slot: 1, Material: jacaranda_tree_trunk)
+     - Object: RealTree_04 (Mesh: RealTree_01, Slot: 1, Material: jacaranda_tree_trunk)
+     - Object: RealTree_05 (Mesh: RealTree_01, Slot: 1, Material: jacaranda_tree_trunk)
+     - Object: RealTree_06 (Mesh: RealTree_01, Slot: 1, Material: jacaranda_tree_trunk)
+     - Object: RealTree_07 (Mesh: RealTree_07, Slot: 0, Material: island_tree_02)
+     - Object: RealTree_07 (Mesh: RealTree_07, Slot: 2, Material: island_tree_02_branches)
+     - Object: RealTree_08 (Mesh: RealTree_07, Slot: 0, Material: island_tree_02)
+     - Object: RealTree_08 (Mesh: RealTree_07, Slot: 2, Material: island_tree_02_branches)
+     - Object: RealTree_09 (Mesh: RealTree_09, Slot: 0, Material: fir_tree_01_bark)
+     - Object: RealTree_09 (Mesh: RealTree_09, Slot: 3, Material: fir_tree_01_trunk_c)
+     - Object: RealTree_10 (Mesh: RealTree_09, Slot: 0, Material: fir_tree_01_bark)
+     - Object: RealTree_10 (Mesh: RealTree_09, Slot: 3, Material: fir_tree_01_trunk_c)
+   [Hospital Exterior Walls Slots]:
+     - Object: Bollard_0 (Mesh: Bollard_0, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_0_Cap (Mesh: Bollard_0_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_1 (Mesh: Bollard_1, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_1_Cap (Mesh: Bollard_1_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_2 (Mesh: Bollard_2, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_2_Cap (Mesh: Bollard_2_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_3 (Mesh: Bollard_3, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_3_Cap (Mesh: Bollard_3_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_4 (Mesh: Bollard_4, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_4_Cap (Mesh: Bollard_4_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_5 (Mesh: Bollard_5, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_5_Cap (Mesh: Bollard_5_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_6 (Mesh: Bollard_6, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_6_Cap (Mesh: Bollard_6_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_7 (Mesh: Bollard_7, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_7_Cap (Mesh: Bollard_7_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_8 (Mesh: Bollard_8, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_8_Cap (Mesh: Bollard_8_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_9 (Mesh: Bollard_9, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_9_Cap (Mesh: Bollard_9_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_10 (Mesh: Bollard_10, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_10_Cap (Mesh: Bollard_10_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_11 (Mesh: Bollard_11, Slot: 0, Material: MAT_Charcoal)
+     - Object: Bollard_11_Cap (Mesh: Bollard_11_Cap, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Column_Base_0 (Mesh: Canopy_Column_Base_0, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Column_Base_1 (Mesh: Canopy_Column_Base_1, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Column_Base_2 (Mesh: Canopy_Column_Base_2, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Column_Cap_0 (Mesh: Canopy_Column_Cap_0, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Column_Cap_1 (Mesh: Canopy_Column_Cap_1, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Column_Cap_2 (Mesh: Canopy_Column_Cap_2, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Fascia_E (Mesh: Canopy_Fascia_E, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Fascia_S (Mesh: Canopy_Fascia_S, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Fascia_W (Mesh: Canopy_Fascia_W, Slot: 0, Material: MAT_Charcoal)
+     - Object: Canopy_Slab (Mesh: Canopy_Slab, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Cardiac_Arrest.001 (Mesh: Ceiling_Cardiac_Arrest.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Reveal_Trim_Cardiac_Arrest.001 (Mesh: Ceiling_Reveal_Trim_Cardiac_Arrest.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Tiles_Cardiac_Arrest.001 (Mesh: Ceiling_Tiles_Cardiac_Arrest.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Bot_Cardiac_Arrest (Mesh: Entrance_Door_Bot_Cardiac_Arrest, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Left_Cardiac_Arrest (Mesh: Entrance_Door_Left_Cardiac_Arrest, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Right_Cardiac_Arrest (Mesh: Entrance_Door_Right_Cardiac_Arrest, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Top_Cardiac_Arrest (Mesh: Entrance_Door_Top_Cardiac_Arrest, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Corridor (Mesh: Ceiling_Corridor, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Office (Mesh: Ceiling_Office, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Waiting (Mesh: Ceiling_Waiting, Slot: 0, Material: MAT_Wall_White)
+     - Object: Crown_E (Mesh: Crown_E, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_N (Mesh: Crown_N, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_Pier_E_NE (Mesh: Crown_Pier_E_NE, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_Pier_E_NW (Mesh: Crown_Pier_E_NW, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_Pier_E_SE (Mesh: Crown_Pier_E_SE, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_Pier_E_SW (Mesh: Crown_Pier_E_SW, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_Pier_N_NE (Mesh: Crown_Pier_N_NE, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_Pier_N_NW (Mesh: Crown_Pier_N_NW, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_Pier_N_SE (Mesh: Crown_Pier_N_SE, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_Pier_N_SW (Mesh: Crown_Pier_N_SW, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_S (Mesh: Crown_S, Slot: 0, Material: MAT_Charcoal)
+     - Object: Crown_W (Mesh: Crown_W, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_0 (Mesh: Fin_F2_E_0, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_1 (Mesh: Fin_F2_E_1, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_2 (Mesh: Fin_F2_E_2, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_3 (Mesh: Fin_F2_E_3, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_4 (Mesh: Fin_F2_E_4, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_5 (Mesh: Fin_F2_E_5, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_6 (Mesh: Fin_F2_E_6, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_7 (Mesh: Fin_F2_E_7, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_8 (Mesh: Fin_F2_E_8, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_9 (Mesh: Fin_F2_E_9, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_10 (Mesh: Fin_F2_E_10, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_11 (Mesh: Fin_F2_E_11, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_12 (Mesh: Fin_F2_E_12, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_13 (Mesh: Fin_F2_E_13, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_14 (Mesh: Fin_F2_E_14, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_15 (Mesh: Fin_F2_E_15, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_16 (Mesh: Fin_F2_E_16, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_E_17 (Mesh: Fin_F2_E_17, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_0 (Mesh: Fin_F2_S_0, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_1 (Mesh: Fin_F2_S_1, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_2 (Mesh: Fin_F2_S_2, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_3 (Mesh: Fin_F2_S_3, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_4 (Mesh: Fin_F2_S_4, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_5 (Mesh: Fin_F2_S_5, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_6 (Mesh: Fin_F2_S_6, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_7 (Mesh: Fin_F2_S_7, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_8 (Mesh: Fin_F2_S_8, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_9 (Mesh: Fin_F2_S_9, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_10 (Mesh: Fin_F2_S_10, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_11 (Mesh: Fin_F2_S_11, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_12 (Mesh: Fin_F2_S_12, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_13 (Mesh: Fin_F2_S_13, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_14 (Mesh: Fin_F2_S_14, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_15 (Mesh: Fin_F2_S_15, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_16 (Mesh: Fin_F2_S_16, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_17 (Mesh: Fin_F2_S_17, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_18 (Mesh: Fin_F2_S_18, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F2_S_19 (Mesh: Fin_F2_S_19, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_0 (Mesh: Fin_F3_E_0, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_1 (Mesh: Fin_F3_E_1, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_2 (Mesh: Fin_F3_E_2, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_3 (Mesh: Fin_F3_E_3, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_4 (Mesh: Fin_F3_E_4, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_5 (Mesh: Fin_F3_E_5, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_6 (Mesh: Fin_F3_E_6, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_7 (Mesh: Fin_F3_E_7, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_8 (Mesh: Fin_F3_E_8, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_9 (Mesh: Fin_F3_E_9, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_10 (Mesh: Fin_F3_E_10, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_E_11 (Mesh: Fin_F3_E_11, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_0 (Mesh: Fin_F3_S_0, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_1 (Mesh: Fin_F3_S_1, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_2 (Mesh: Fin_F3_S_2, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_3 (Mesh: Fin_F3_S_3, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_4 (Mesh: Fin_F3_S_4, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_5 (Mesh: Fin_F3_S_5, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_6 (Mesh: Fin_F3_S_6, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_7 (Mesh: Fin_F3_S_7, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_8 (Mesh: Fin_F3_S_8, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_9 (Mesh: Fin_F3_S_9, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_10 (Mesh: Fin_F3_S_10, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_11 (Mesh: Fin_F3_S_11, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_12 (Mesh: Fin_F3_S_12, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_13 (Mesh: Fin_F3_S_13, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_14 (Mesh: Fin_F3_S_14, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_15 (Mesh: Fin_F3_S_15, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_16 (Mesh: Fin_F3_S_16, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_17 (Mesh: Fin_F3_S_17, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_18 (Mesh: Fin_F3_S_18, Slot: 0, Material: MAT_Charcoal)
+     - Object: Fin_F3_S_19 (Mesh: Fin_F3_S_19, Slot: 0, Material: MAT_Charcoal)
+     - Object: Floor2_Corner_NE (Mesh: Floor2_Corner_NE, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_Corner_NW (Mesh: Floor2_Corner_NW, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_Corner_SE (Mesh: Floor2_Corner_SE, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_Corner_SW (Mesh: Floor2_Corner_SW, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_E_Bot (Mesh: Floor2_E_Bot, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_E_Top (Mesh: Floor2_E_Top, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_N_Bot (Mesh: Floor2_N_Bot, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_N_Top (Mesh: Floor2_N_Top, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_S_Bot_L (Mesh: Floor2_S_Bot_L, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_S_Top_L (Mesh: Floor2_S_Top_L, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_Slab (Mesh: Floor2_Slab, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_W_Bot (Mesh: Floor2_W_Bot, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor2_W_Top (Mesh: Floor2_W_Top, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_Corner_NE (Mesh: Floor3_Corner_NE, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_Corner_NW (Mesh: Floor3_Corner_NW, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_Corner_SE (Mesh: Floor3_Corner_SE, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_Corner_SW (Mesh: Floor3_Corner_SW, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_E_Bot (Mesh: Floor3_E_Bot, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_E_Top (Mesh: Floor3_E_Top, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_N_Bot (Mesh: Floor3_N_Bot, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_N_Top (Mesh: Floor3_N_Top, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_S_Bot (Mesh: Floor3_S_Bot, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_S_Top (Mesh: Floor3_S_Top, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_Slab (Mesh: Floor3_Slab, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_W_Bot (Mesh: Floor3_W_Bot, Slot: 0, Material: MAT_Wall_White)
+     - Object: Floor3_W_Top (Mesh: Floor3_W_Top, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Isolation.001 (Mesh: Ceiling_Isolation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Reveal_Trim_Isolation.001 (Mesh: Ceiling_Reveal_Trim_Isolation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Tiles_Isolation.001 (Mesh: Ceiling_Tiles_Isolation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Bot_Isolation (Mesh: Entrance_Door_Bot_Isolation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Left_Isolation (Mesh: Entrance_Door_Left_Isolation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Right_Isolation (Mesh: Entrance_Door_Right_Isolation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Top_Isolation (Mesh: Entrance_Door_Top_Isolation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Observation.001 (Mesh: Ceiling_Observation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Reveal_Trim_Observation.001 (Mesh: Ceiling_Reveal_Trim_Observation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Tiles_Observation.001 (Mesh: Ceiling_Tiles_Observation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Bot_Observation (Mesh: Entrance_Door_Bot_Observation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Left_Observation (Mesh: Entrance_Door_Left_Observation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Right_Observation (Mesh: Entrance_Door_Right_Observation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Top_Observation (Mesh: Entrance_Door_Top_Observation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Sliding_Door_Bot (Mesh: Office_Sliding_Door_Bot, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Sliding_Door_Left (Mesh: Office_Sliding_Door_Left, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Sliding_Door_Right (Mesh: Office_Sliding_Door_Right, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Sliding_Door_Top (Mesh: Office_Sliding_Door_Top, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Wall_B_H (Mesh: Office_Wall_B_H, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Wall_B_L (Mesh: Office_Wall_B_L, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Wall_B_R (Mesh: Office_Wall_B_R, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Wall_F_B (Mesh: Office_Wall_F_B, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Wall_F_L (Mesh: Office_Wall_F_L, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Wall_F_R (Mesh: Office_Wall_F_R, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Wall_F_T (Mesh: Office_Wall_F_T, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Wall_L (Mesh: Office_Wall_L, Slot: 0, Material: MAT_Wall_White)
+     - Object: Office_Wall_R (Mesh: Office_Wall_R, Slot: 0, Material: MAT_Wall_White)
+     - Object: Planter_0 (Mesh: Planter_0, Slot: 0, Material: MAT_Charcoal)
+     - Object: Planter_1 (Mesh: Planter_1, Slot: 0, Material: MAT_Charcoal)
+     - Object: Podium_Nosing_0 (Mesh: Podium_Nosing_0, Slot: 0, Material: MAT_Charcoal)
+     - Object: Podium_Nosing_1 (Mesh: Podium_Nosing_1, Slot: 0, Material: MAT_Charcoal)
+     - Object: Podium_Nosing_2 (Mesh: Podium_Nosing_2, Slot: 0, Material: MAT_Charcoal)
+     - Object: Podium_Platform (Mesh: Podium_Platform, Slot: 0, Material: MAT_Wall_White)
+     - Object: Podium_Step1 (Mesh: Podium_Step1, Slot: 0, Material: MAT_Wall_White)
+     - Object: Podium_Step2 (Mesh: Podium_Step2, Slot: 0, Material: MAT_Wall_White)
+     - Object: Condenser_Fan_0 (Mesh: Condenser_Fan_0, Slot: 0, Material: MAT_Coping_Charcoal)
+     - Object: Condenser_Fan_1 (Mesh: Condenser_Fan_1, Slot: 0, Material: MAT_Coping_Charcoal)
+     - Object: HVAC_AHU_Vent_0 (Mesh: HVAC_AHU_Vent_0, Slot: 0, Material: MAT_Coping_Charcoal)
+     - Object: HVAC_AHU_Vent_1 (Mesh: HVAC_AHU_Vent_1, Slot: 0, Material: MAT_Coping_Charcoal)
+     - Object: HVAC_AHU_Vent_2 (Mesh: HVAC_AHU_Vent_2, Slot: 0, Material: MAT_Coping_Charcoal)
+     - Object: Mushroom_Vent_Cap_0 (Mesh: Mushroom_Vent_Cap_0, Slot: 0, Material: MAT_Coping_Charcoal)
+     - Object: Mushroom_Vent_Cap_1 (Mesh: Mushroom_Vent_Cap_1, Slot: 0, Material: MAT_Coping_Charcoal)
+     - Object: Mushroom_Vent_Cap_2 (Mesh: Mushroom_Vent_Cap_2, Slot: 0, Material: MAT_Coping_Charcoal)
+     - Object: Mushroom_Vent_Cap_3 (Mesh: Mushroom_Vent_Cap_3, Slot: 0, Material: MAT_Coping_Charcoal)
+     - Object: Penthouse_Stair (Mesh: Penthouse_Stair, Slot: 0, Material: MAT_Wall_White)
+     - Object: Roof_Coping_E (Mesh: Roof_Coping_E, Slot: 0, Material: MAT_Charcoal)
+     - Object: Roof_Coping_N (Mesh: Roof_Coping_N, Slot: 0, Material: MAT_Charcoal)
+     - Object: Roof_Coping_S (Mesh: Roof_Coping_S, Slot: 0, Material: MAT_Charcoal)
+     - Object: Roof_Coping_W (Mesh: Roof_Coping_W, Slot: 0, Material: MAT_Charcoal)
+     - Object: Roof_Parapet_E (Mesh: Roof_Parapet_E, Slot: 0, Material: MAT_Wall_White)
+     - Object: Roof_Parapet_N (Mesh: Roof_Parapet_N, Slot: 0, Material: MAT_Wall_White)
+     - Object: Roof_Parapet_S (Mesh: Roof_Parapet_S, Slot: 0, Material: MAT_Wall_White)
+     - Object: Roof_Parapet_W (Mesh: Roof_Parapet_W, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Reveal_Trim_Surgical.001 (Mesh: Ceiling_Reveal_Trim_Surgical.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Surgical.001 (Mesh: Ceiling_Surgical.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Tiles_Surgical.001 (Mesh: Ceiling_Tiles_Surgical.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Bot_Surgical (Mesh: Entrance_Door_Bot_Surgical, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Left_Surgical (Mesh: Entrance_Door_Left_Surgical, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Right_Surgical (Mesh: Entrance_Door_Right_Surgical, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Top_Surgical (Mesh: Entrance_Door_Top_Surgical, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Deck_E (Mesh: Terrace_Deck_E, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Deck_N (Mesh: Terrace_Deck_N, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Deck_S (Mesh: Terrace_Deck_S, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Deck_W (Mesh: Terrace_Deck_W, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Parapet_E (Mesh: Terrace_Parapet_E, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Parapet_Inner_E (Mesh: Terrace_Parapet_Inner_E, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Parapet_Inner_N (Mesh: Terrace_Parapet_Inner_N, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Parapet_Inner_S (Mesh: Terrace_Parapet_Inner_S, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Parapet_Inner_W (Mesh: Terrace_Parapet_Inner_W, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Parapet_N (Mesh: Terrace_Parapet_N, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Parapet_S (Mesh: Terrace_Parapet_S, Slot: 0, Material: MAT_Wall_White)
+     - Object: Terrace_Parapet_W (Mesh: Terrace_Parapet_W, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Reveal_Trim_Trauma.001 (Mesh: Ceiling_Reveal_Trim_Trauma.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Tiles_Trauma.001 (Mesh: Ceiling_Tiles_Trauma.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Trauma.001 (Mesh: Ceiling_Trauma.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Bot_Trauma (Mesh: Entrance_Door_Bot_Trauma, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Left_Trauma (Mesh: Entrance_Door_Left_Trauma, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Right_Trauma (Mesh: Entrance_Door_Right_Trauma, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Top_Trauma (Mesh: Entrance_Door_Top_Trauma, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Reveal_Trim_Triage.001 (Mesh: Ceiling_Reveal_Trim_Triage.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Tiles_Triage.001 (Mesh: Ceiling_Tiles_Triage.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Ceiling_Triage.001 (Mesh: Ceiling_Triage.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Bot_Triage (Mesh: Entrance_Door_Bot_Triage, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Left_Triage (Mesh: Entrance_Door_Left_Triage, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Right_Triage (Mesh: Entrance_Door_Right_Triage, Slot: 0, Material: MAT_Wall_White)
+     - Object: Entrance_Door_Top_Triage (Mesh: Entrance_Door_Top_Triage, Slot: 0, Material: MAT_Wall_White)
+     - Object: Waiting_Wall_F_H (Mesh: Waiting_Wall_F_H, Slot: 0, Material: MAT_Wall_White)
+     - Object: Waiting_Wall_F_L (Mesh: Waiting_Wall_F_L, Slot: 0, Material: MAT_Wall_White)
+     - Object: Waiting_Wall_F_R (Mesh: Waiting_Wall_F_R, Slot: 0, Material: MAT_Wall_White)
+     - Object: Waiting_Wall_L (Mesh: Waiting_Wall_L, Slot: 0, Material: MAT_Wall_White)
+     - Object: Waiting_Wall_R (Mesh: Waiting_Wall_R, Slot: 0, Material: MAT_Wall_White)
+   [Interior Walls Slots]:
+     - Object: Baseboard_Back_Cardiac_Arrest (Mesh: Baseboard_Back_Cardiac_Arrest, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Corridor_Cardiac_Arrest (Mesh: Baseboard_Corridor_Cardiac_Arrest, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Back_Cardiac_Arrest.001 (Mesh: CrownMolding_Back_Cardiac_Arrest.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Left_Cardiac_Arrest.001 (Mesh: CrownMolding_Left_Cardiac_Arrest.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Right_Cardiac_Arrest.002 (Mesh: CrownMolding_Right_Cardiac_Arrest.002, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Back_Solid_Cardiac_Arrest (Mesh: Wall_Back_Solid_Cardiac_Arrest, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Left_Solid_Cardiac_Arrest (Mesh: Wall_Left_Solid_Cardiac_Arrest, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Back_Isolation (Mesh: Baseboard_Back_Isolation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Corridor_Isolation (Mesh: Baseboard_Corridor_Isolation, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Back_Isolation.001 (Mesh: CrownMolding_Back_Isolation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Left_Isolation.001 (Mesh: CrownMolding_Left_Isolation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Right_Isolation.002 (Mesh: CrownMolding_Right_Isolation.002, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Back_Solid_Isolation_B (Mesh: Wall_Back_Solid_Isolation_B, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Back_Solid_Isolation_L (Mesh: Wall_Back_Solid_Isolation_L, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Back_Solid_Isolation_R (Mesh: Wall_Back_Solid_Isolation_R, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Back_Solid_Isolation_T (Mesh: Wall_Back_Solid_Isolation_T, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Corridor_Isolation (Mesh: Wall_Corridor_Isolation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Back_Observation (Mesh: Baseboard_Back_Observation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Corridor_Observation (Mesh: Baseboard_Corridor_Observation, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Back_Observation.001 (Mesh: CrownMolding_Back_Observation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Left_Observation.001 (Mesh: CrownMolding_Left_Observation.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Right_Observation.002 (Mesh: CrownMolding_Right_Observation.002, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Back_Solid_Observation (Mesh: Wall_Back_Solid_Observation, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Back_Surgical (Mesh: Baseboard_Back_Surgical, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Corridor_Surgical (Mesh: Baseboard_Corridor_Surgical, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Back_Surgical.001 (Mesh: CrownMolding_Back_Surgical.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Left_Surgical.001 (Mesh: CrownMolding_Left_Surgical.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Right_Surgical.002 (Mesh: CrownMolding_Right_Surgical.002, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Back_Solid_Surgical (Mesh: Wall_Back_Solid_Surgical, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Corridor_Surgical (Mesh: Wall_Corridor_Surgical, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Left_Solid_Surgical (Mesh: Wall_Left_Solid_Surgical, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Back_Trauma (Mesh: Baseboard_Back_Trauma, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Corridor_Trauma (Mesh: Baseboard_Corridor_Trauma, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Back_Trauma.001 (Mesh: CrownMolding_Back_Trauma.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Left_Trauma.001 (Mesh: CrownMolding_Left_Trauma.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Right_Trauma.002 (Mesh: CrownMolding_Right_Trauma.002, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Back_Solid_Trauma (Mesh: Wall_Back_Solid_Trauma, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Corridor_Trauma (Mesh: Wall_Corridor_Trauma, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Back_Triage (Mesh: Baseboard_Back_Triage, Slot: 0, Material: MAT_Wall_White)
+     - Object: Baseboard_Corridor_Triage (Mesh: Baseboard_Corridor_Triage, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Back_Triage.001 (Mesh: CrownMolding_Back_Triage.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Left_Triage.001 (Mesh: CrownMolding_Left_Triage.001, Slot: 0, Material: MAT_Wall_White)
+     - Object: CrownMolding_Right_Triage.002 (Mesh: CrownMolding_Right_Triage.002, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Back_Solid_Triage (Mesh: Wall_Back_Solid_Triage, Slot: 0, Material: MAT_Wall_White)
+     - Object: Wall_Left_Solid_Triage (Mesh: Wall_Left_Solid_Triage, Slot: 0, Material: MAT_Wall_White)
+   [Floors Slots]:
+     - Object: Floor_Cardiac_Arrest (Mesh: Floor_Cardiac_Arrest, Slot: 0, Material: MAT_Floor_Wood)
+     - Object: Corridor_Floor (Mesh: Corridor_Floor, Slot: 0, Material: MAT_Floor_Wood)
+     - Object: Floor_Isolation (Mesh: Floor_Isolation, Slot: 0, Material: MAT_Floor_Wood)
+     - Object: Floor_Observation (Mesh: Floor_Observation, Slot: 0, Material: MAT_Floor_Wood)
+     - Object: Office_Floor (Mesh: Office_Floor, Slot: 0, Material: MAT_Floor_Wood)
+     - Object: Floor_Surgical (Mesh: Floor_Surgical, Slot: 0, Material: MAT_Floor_Wood)
+     - Object: Floor_Trauma (Mesh: Floor_Trauma, Slot: 0, Material: MAT_Floor_Wood)
+     - Object: Floor_Triage (Mesh: Floor_Triage, Slot: 0, Material: MAT_Floor_Wood)
+     - Object: Waiting_Floor (Mesh: Waiting_Floor, Slot: 0, Material: MAT_Floor_Wood)
+   [Terrain Slots]:
+     - Object: Ground_Plane (Mesh: Ground_Plane, Slot: 0, Material: leafy_grass)
+   [Roof Slots]:
+     - Object: Roof_Deck (Mesh: Roof_Deck, Slot: 0, Material: MAT_Roof)
+   [Exterior Paths Slots]:
+     - Object: Entrance_Plaza (Mesh: Entrance_Plaza, Slot: 0, Material: MAT_Paving)
+     - Object: Walkway_Strip (Mesh: Walkway_Strip, Slot: 0, Material: MAT_Paving)
+
+7. Missing Texture References in FBX Materials:
+   - Material fir_tree_01_bark has no texture assigned to property: _BaseMap
+   - Material fir_tree_01_bark has no texture assigned to property: _BumpMap
+   - Material fir_tree_01_bark has no texture assigned to property: _MainTex
+   - Material fir_tree_01_dead_branches has no texture assigned to property: _BaseMap
+   - Material fir_tree_01_dead_branches has no texture assigned to property: _BumpMap
+   - Material fir_tree_01_dead_branches has no texture assigned to property: _MainTex
+   - Material fir_tree_01_trunk_c has no texture assigned to property: _BaseMap
+   - Material fir_tree_01_trunk_c has no texture assigned to property: _BumpMap
+   - Material fir_tree_01_trunk_c has no texture assigned to property: _MainTex
+   - Material fir_tree_01_twig has no texture assigned to property: _BaseMap
+   - Material fir_tree_01_twig has no texture assigned to property: _BumpMap
+   - Material fir_tree_01_twig has no texture assigned to property: _MainTex
+   - Material island_tree_02 has no texture assigned to property: _BaseMap
+   - Material island_tree_02 has no texture assigned to property: _BumpMap
+   - Material island_tree_02 has no texture assigned to property: _MainTex
+   - Material island_tree_02_branches has no texture assigned to property: _BaseMap
+   - Material island_tree_02_branches has no texture assigned to property: _BumpMap
+   - Material island_tree_02_branches has no texture assigned to property: _MainTex
+   - Material island_tree_02_leaves has no texture assigned to property: _BaseMap
+   - Material island_tree_02_leaves has no texture assigned to property: _BumpMap
+   - Material island_tree_02_leaves has no texture assigned to property: _MainTex
+   - Material jacaranda_tree_branches has no texture assigned to property: _BaseMap
+   - Material jacaranda_tree_branches has no texture assigned to property: _BumpMap
+   - Material jacaranda_tree_branches has no texture assigned to property: _MainTex
+   - Material jacaranda_tree_leaves has no texture assigned to property: _BaseMap
+   - Material jacaranda_tree_leaves has no texture assigned to property: _BumpMap
+   - Material jacaranda_tree_leaves has no texture assigned to property: _MainTex
+   - Material jacaranda_tree_trunk has no texture assigned to property: _BaseMap
+   - Material jacaranda_tree_trunk has no texture assigned to property: _BumpMap
+   - Material jacaranda_tree_trunk has no texture assigned to property: _MainTex
+   - Material leafy_grass has no texture assigned to property: _BaseMap
+   - Material leafy_grass has no texture assigned to property: _BumpMap
+   - Material leafy_grass has no texture assigned to property: _MainTex
+   - Material MAT_Charcoal has no texture assigned to property: _BaseMap
+   - Material MAT_Charcoal has no texture assigned to property: _BumpMap
+   - Material MAT_Charcoal has no texture assigned to property: _MainTex
+   - Material MAT_Coping_Charcoal has no texture assigned to property: _BaseMap
+   - Material MAT_Coping_Charcoal has no texture assigned to property: _BumpMap
+   - Material MAT_Coping_Charcoal has no texture assigned to property: _MainTex
+   - Material MAT_Floor_Wood has no texture assigned to property: _BaseMap
+   - Material MAT_Floor_Wood has no texture assigned to property: _BumpMap
+   - Material MAT_Floor_Wood has no texture assigned to property: _MainTex
+   - Material MAT_Frame_Metal has no texture assigned to property: _BaseMap
+   - Material MAT_Frame_Metal has no texture assigned to property: _BumpMap
+   - Material MAT_Frame_Metal has no texture assigned to property: _MainTex
+   - Material MAT_Glass has no texture assigned to property: _BaseMap
+   - Material MAT_Glass has no texture assigned to property: _BumpMap
+   - Material MAT_Glass has no texture assigned to property: _MainTex
+   - Material MAT_Grey_Metal has no texture assigned to property: _BaseMap
+   - Material MAT_Grey_Metal has no texture assigned to property: _BumpMap
+   - Material MAT_Grey_Metal has no texture assigned to property: _MainTex
+   - Material MAT_Paving has no texture assigned to property: _BaseMap
+   - Material MAT_Paving has no texture assigned to property: _BumpMap
+   - Material MAT_Paving has no texture assigned to property: _MainTex
+   - Material MAT_Roof has no texture assigned to property: _BaseMap
+   - Material MAT_Roof has no texture assigned to property: _BumpMap
+   - Material MAT_Roof has no texture assigned to property: _MainTex
+   - Material MAT_TreeFoliage has no texture assigned to property: _BaseMap
+   - Material MAT_TreeFoliage has no texture assigned to property: _BumpMap
+   - Material MAT_TreeFoliage has no texture assigned to property: _MainTex
+   - Material MAT_Troffer_Light has no texture assigned to property: _BaseMap
+   - Material MAT_Troffer_Light has no texture assigned to property: _BumpMap
+   - Material MAT_Troffer_Light has no texture assigned to property: _MainTex
+   - Material MAT_Wall_White has no texture assigned to property: _BaseMap
+   - Material MAT_Wall_White has no texture assigned to property: _BumpMap
+   - Material MAT_Wall_White has no texture assigned to property: _MainTex
+
+8. Magenta, white, grey, or unsupported materials:
+   - Material: fir_tree_01_bark | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: fir_tree_01_dead_branches | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: fir_tree_01_trunk_c | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: fir_tree_01_twig | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: island_tree_02 | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: island_tree_02_branches | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: island_tree_02_leaves | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: jacaranda_tree_branches | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: jacaranda_tree_leaves | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: jacaranda_tree_trunk | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: leafy_grass | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Charcoal | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Coping_Charcoal | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Floor_Wood | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Frame_Metal | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Glass | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Grey_Metal | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Paving | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Roof | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_TreeFoliage | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Troffer_Light | Shader: Universal Render Pipeline/Lit | Status: Ok
+   - Material: MAT_Wall_White | Shader: Universal Render Pipeline/Lit | Status: Ok
+
+9 & 10. Imported Helper / Temp / Cutter Objects:
+   - Name: AreaLight_CardiacArrest_0 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_CardiacArrest_1 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Corridor_0 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Corridor_1 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Corridor_2 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Corridor_3 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Isolation_0 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Isolation_1 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Observation_0 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Observation_1 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Office_0 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Office_1 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Surgical_0 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Surgical_1 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Trauma_0 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Trauma_1 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Triage_0 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Triage_1 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Wait_0 | Type: Light | ActiveSelf: True
+   - Name: AreaLight_Wait_1 | Type: Light | ActiveSelf: True
+   - Name: Cam_Closeup_Door | Type: Camera | ActiveSelf: True
+   - Name: Cam_Corridor_Shot | Type: Camera | ActiveSelf: True
+   - Name: Cam_Entrance | Type: Camera | ActiveSelf: True
+   - Name: Cam_Exterior | Type: Camera | ActiveSelf: True
+   - Name: Cam_Top | Type: Camera | ActiveSelf: True
+   - Name: Cam_Trees_Shot | Type: Camera | ActiveSelf: True
+   - Name: Cam_Waiting_Shot | Type: Camera | ActiveSelf: True
+   - Name: Cam_Window | Type: Camera | ActiveSelf: True
+   - Name: Temp_Cutter_Cardiac_Arrest | Type: MeshRenderer | ActiveSelf: True
+   - Name: Temp_Cutter_Isolation | Type: MeshRenderer | ActiveSelf: True
+   - Name: Temp_Cutter_Observation | Type: MeshRenderer | ActiveSelf: True
+   - Name: Sun_Light | Type: Light | ActiveSelf: True
+   - Name: Temp_Cutter_Surgical | Type: MeshRenderer | ActiveSelf: True
+   - Name: Temp_Cutter_Trauma | Type: MeshRenderer | ActiveSelf: True
+   - Name: Temp_Cutter_Triage | Type: MeshRenderer | ActiveSelf: True
+
+11. Exact object using the mesh 'Temp_Cutter_Triage':
+   - Object Name: Temp_Cutter_Triage | Path: Hospital_Site/Triage_Root/Temp_Cutter_Triage
+
+12. Instantiation in XR_Setup_Test:
+   - Active Scene Name: XR_Setup_Test (Path: Assets/Scenes/XR_Setup_Test.unity)
+   - Hospital_Site is NOT instantiated in the active scene.
+
+13. Hospital_Integration.unity exists: False (Path: Assets/MedTriage/Scenes/Hospital_Integration.unity)
